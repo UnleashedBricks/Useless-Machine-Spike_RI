@@ -1,9 +1,11 @@
 ---- LEGO Spike Prime Useless Machine 🤖 ----
+
 The Useless Machine is a fun and entertaining LEGO robot that does exactly what its name says — nothing! When you turn it on, it immediately turns itself off. Built with LEGO Spike Prime or Mindstorms 51515 hardware, this amusing little bot demonstrates simple motor control and switch mechanisms in the most dramatic way possible.
 
 ====================================
 
 🧠 Purpose
+
 This project is designed as a small, playful robotics exercise that:
 
 Demonstrates basic sensor and motor control using the Spike Prime or Mindstorms 51515 hub.
@@ -28,6 +30,7 @@ This simple cycle of you turning it on, it turning itself off is surprisingly en
 ====================================
 
 🧩 Requirements
+
 LEGO Spike Prime or Mindstorms Robot Inventor (51515) set
 
 At least 1 medium angular motor
@@ -39,6 +42,7 @@ LEGO elements to build the box, switch, and arm. (You will not have all the part
 ====================================
 
 🧠 Educational Value
+
 This project can be used to explore:
 
 Basic mechanical linkages
@@ -50,6 +54,7 @@ Fun automation ideas that demonstrate robotics principles in a humorous way
 ====================================
 
 🏗️ Customization Ideas
+
 Add sound effects or display animations when the robot “wakes up.”
 
 Use a servo arm that knocks the switch in a funny motion.
@@ -59,4 +64,5 @@ I've already added some effects, feel free to change it!
 ====================================
 
 📄 License
+
 This code is free to use, so don't be shy to tinker, remix and test it out!
